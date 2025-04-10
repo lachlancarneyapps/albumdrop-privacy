@@ -1,0 +1,47 @@
+Privacy Policy for Album Drop
+
+Last updated: April 2025
+
+---
+
+Overview
+
+Album Drop respects your privacy. This policy outlines how we handle your information when you use our app.
+
+---
+
+Information We Collect
+
+We do not collect or store any personal information. 
+Album Drop does not require users to create an account, provide contact details, or submit any personally identifiable data.
+
+---
+
+Tracklist & Artwork
+
+All content you upload — including album artwork or tracklists — is stored only on your device and is never sent to our servers. No data is shared, saved, or transmitted externally.
+
+---
+
+Third-Party Services
+
+Album Drop does not use third-party analytics, tracking tools, or advertising SDKs. The app may include embedded previews of public content (such as album artwork mockups) but does not access streaming accounts or user data.
+
+---
+
+Children’s Privacy
+
+Album Drop is not intended for children under the age of 13 and does not knowingly collect any data from them.
+
+---
+
+Changes to This Policy
+
+We may update this Privacy Policy in the future. Any changes will be posted here with an updated “Last updated” date.
+
+---
+
+Contact
+
+If you have any questions about this policy, please contact:
+lachlan.carney@gmail.com
